@@ -1,8 +1,8 @@
-[submodule "CityOfUzers.UI"]
-	path = CityOfUzers.UI
-	url = https://github.com/pedroaz/CityOfUzers.UI.git
-	branch = master
 [submodule "WorldOfUzers.UI"]
 	path = WorldOfUzers.UI
 	url = https://github.com/pedroaz/WorldOfUzers.UI
+	branch = master
+[submodule "WorldOfUzers.GeneralFunctions"]
+	path = WorldOfUzers.GeneralFunctions
+	url = https://github.com/pedroaz/WorldOfUzers.GeneralFunctions.git
 	branch = master
