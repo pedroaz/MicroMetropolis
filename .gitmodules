@@ -1,0 +1,4 @@
+[submodule "CityOfUzers.UI"]
+	path = CityOfUzers.UI
+	url = https://github.com/pedroaz/CityOfUzers.UI.git
+	branch = master
